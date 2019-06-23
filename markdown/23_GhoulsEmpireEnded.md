@@ -1,5 +1,5 @@
 <!-- .slide: data-background="#ffffff" -->
-# Breakup of the Ghoul Empire.
+# Breakup of the Ghoul Empire
 
 **PERIOD**
 

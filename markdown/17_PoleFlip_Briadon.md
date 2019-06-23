@@ -1,5 +1,7 @@
 <!-- .slide: data-background="#ffffff" -->
-# Undead Dwarf King Briadon Seeds Rebellion Amongst the Living
+# Briadon's Rebellion
+
+Undead Dwarf King Briadon Seeds Rebellion Amongst the Living
 
 **EVENT**
 

@@ -1,5 +1,7 @@
 <!-- .slide: data-background="#ffffff" -->
-# The Etaran Archipelago Becomes More Habitable
+# The Etaran Archipelago
+
+The Etaran Archipelago Becomes More Habitable
 
 **EVENT**
 

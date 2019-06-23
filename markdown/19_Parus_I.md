@@ -1,4 +1,6 @@
-# The Ghouls Enact Brutal Control Under Parus_I
+# Ghouls Rise Under Parus_I
+
+The Ghouls Enact Brutal Control Under Parus_I
 
 **PERIOD**
 

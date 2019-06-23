@@ -1,4 +1,4 @@
-<!-- .slide: data-background="#dddddd" -->
+<!-- .slide: data-background="#ffffff" -->
 # The Flipping of the Cylinder World's Poles
 
 **PERIOD**

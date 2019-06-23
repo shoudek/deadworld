@@ -1,3 +1,4 @@
+<!-- .slide: data-background="#ffffff" -->
 # Discovery of Ancient Technology
 
 **EVENT**

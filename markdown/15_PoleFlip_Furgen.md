@@ -1,3 +1,4 @@
+<!-- .slide: data-background="#ffffff" -->
 # Furgen the Fishman
 
 **SCENE**

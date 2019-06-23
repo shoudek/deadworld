@@ -1,4 +1,5 @@
-# As the Sky Kingdom Falls, they hide\protect their technology
+<!-- .slide: data-background="#ffffff" -->
+# As the Sky Kingdom Falls, they hide their technology
 
 **EVENT**
 

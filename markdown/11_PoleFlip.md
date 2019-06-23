@@ -1,13 +1,11 @@
-<!-- .slide: data-background="#ffffff" -->
-# The Flipping of the Cylinder World's Poles
+# The World's Poles Reverse
 
 **PERIOD**
 
-Over Two Years
+The Poles Flip Over Two Years
 
-Existing civilizations are frozen\burned
+Existing civilizations are frozen_burned
 
 Old civilizations are unfrozen and revealed
 
-
-**LIGHT?**
+**DARK**
